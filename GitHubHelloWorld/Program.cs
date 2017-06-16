@@ -10,7 +10,9 @@ namespace GitHubHelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This line tests a new  build on commit!");
             Console.WriteLine("The world is listening...Press [Enter] key to continue.");
+
 
             Console.ReadLine();
         }
